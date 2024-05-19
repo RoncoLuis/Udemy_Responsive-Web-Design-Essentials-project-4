@@ -1,0 +1,10 @@
+.mybox{
+    background-color: rgba(0, 0, 255, 0.528);
+    min-height: 200px;
+    margin: 20px 10px;
+    padding: 20px;
+}
+
+.cards{
+    height: 400px;
+}

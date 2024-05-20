@@ -1,0 +1,38 @@
+.mybox1{
+    background-color: tomato;
+    min-height: 200px;
+    margin: 20px 10px;
+    padding: 20px;    
+}
+
+.mybox1 h1{
+    color: red;
+}
+
+/* Override bootstrap media queries (Only if necessary) */
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .mybox1 h1{
+        color: blue;
+    }
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+ }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+ }

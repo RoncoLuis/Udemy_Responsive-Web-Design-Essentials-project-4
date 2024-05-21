@@ -8,6 +8,18 @@ body{
 
 h1{
     font-family: "Oswald","Source Sans 3", sans-serif;
+    font-size: 4.3rem;
 }
 
-/*  */
+.lead{
+    color: white;
+    font-size: 2.3rem;
+}
+
+.debug{
+    outline: 1px solid red;
+}
+
+.btn-outline-light{
+    border-color: white;
+}

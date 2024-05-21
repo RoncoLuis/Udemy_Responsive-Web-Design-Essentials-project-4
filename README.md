@@ -1,1 +1,1 @@
-[web final view](img/web-final-view.png)
+![web final view](/img/web-final-view.png)
